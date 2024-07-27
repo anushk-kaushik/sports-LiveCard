@@ -1,4 +1,4 @@
 # Sports-LiveCard Chrome Extension
 
-This is a Chrome extension that fetches live scores and other match details for the Indian Premier League (IPL) cricket matches using the API provided by [cricketdata.org](https://cricketdata.org/). 
+The updated Chrome extension now offers live scores and match details for a range of sports beyond just cricket. The extension provides real-time updates for various sports including cricket, football, basketball, badminton, and more using the API provided by [cricketdata.org](https://cricketdata.org/). 
 
