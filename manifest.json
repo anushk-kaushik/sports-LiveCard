@@ -1,9 +1,9 @@
 {
-    "name": "IPL Score",
+    "name": "Sports-LiveCard",
     "version": "1.0.0",
     "description": "Fetches IPL score using cricketdata.org API",
     "manifest_version": 3,
-    "author": "Soham Gupta",
+    "author": "Anushk Kaushik",
     "icons": {
       "16": "icons/16.png",
       "32": "icons/32.png",
